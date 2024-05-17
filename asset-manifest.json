@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dynamic-forms/static/css/main.a9de20a1.css",
-    "main.js": "/dynamic-forms/static/js/main.74e33c9c.js",
-    "static/js/453.1b6cbde4.chunk.js": "/dynamic-forms/static/js/453.1b6cbde4.chunk.js",
-    "index.html": "/dynamic-forms/index.html",
-    "main.a9de20a1.css.map": "/dynamic-forms/static/css/main.a9de20a1.css.map",
-    "main.74e33c9c.js.map": "/dynamic-forms/static/js/main.74e33c9c.js.map",
-    "453.1b6cbde4.chunk.js.map": "/dynamic-forms/static/js/453.1b6cbde4.chunk.js.map"
+    "main.css": "/create-forms/static/css/main.6406fbcc.css",
+    "main.js": "/create-forms/static/js/main.b58d55d8.js",
+    "static/js/453.1b6cbde4.chunk.js": "/create-forms/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/create-forms/index.html",
+    "main.6406fbcc.css.map": "/create-forms/static/css/main.6406fbcc.css.map",
+    "main.b58d55d8.js.map": "/create-forms/static/js/main.b58d55d8.js.map",
+    "453.1b6cbde4.chunk.js.map": "/create-forms/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9de20a1.css",
-    "static/js/main.74e33c9c.js"
+    "static/css/main.6406fbcc.css",
+    "static/js/main.b58d55d8.js"
   ]
 }
